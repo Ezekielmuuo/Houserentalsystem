@@ -1,0 +1,43 @@
+#f2{
+    background-image: url(" Images/laptop.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 80px;
+    height: 500px;
+    width:50%;
+    margin-left: 200px;
+    margin-right: 80px;
+
+}
+#main1{display: flex;
+    margin: 100px;
+
+
+
+}
+
+form{background: white;
+    width:100%;
+    height: 500px;
+    padding: 80px;
+    margin-left: 40px;
+    border-color: black;
+    border-style: solid;
+}
+body{background: blue;
+}
+input[type=text],[type=email],[type=password]{
+    width: 100%;
+    height: 10px;
+    margin-top: 10px;
+    padding: 10px;
+
+}
+button{background: blue;
+    width: 100%;
+    height: 50px
+    margin-top: 10px;
+    padding: 10px;
+}
+button:hover{background: #8b0005;}
+

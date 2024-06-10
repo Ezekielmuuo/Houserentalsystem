@@ -1,0 +1,15 @@
+input[type=text],[type=email]{
+    width: 60%;
+    height: 40%;
+    margin-top: 10px;
+    padding: 10px;
+}
+button{background: blue;
+    width: 70px;
+    height: 40px;
+
+
+}
+body{margin: auto 0}
+input[type=text]:focus{background: #aa50ff}
+input

@@ -1,0 +1,24 @@
+#first{
+    background: #d640ed;
+    margin: 50px;
+    padding: 30px;}
+.mydiv{
+    background: brown;
+    padding:30px;
+    margin-top:90px;
+
+}
+#main{text-align: center}
+.mymain{ display: flex;
+}
+
+#course1{padding: 20px;background-color: burlywood;
+}
+
+#course2{background: #f8c7b6;padding: 20px;
+        margin-left: 20px; margin-right: 20px;
+}
+#course3{background: #aa50ff;padding: 20px
+}
+.course{ text-align: center}
+#course1:hover,#course2:hover,#course3:hover{background-color: yellow}
